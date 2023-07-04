@@ -4,11 +4,11 @@ class A
     public static void main(String[] args) {
         A r=new A();
     }
-    A()
+    A() /*constructor block*/
     {
        System.out.println("please share"); 
     }
-    {
+    { /*instance block*/
         System.out.println("please like");
     }
     static{
