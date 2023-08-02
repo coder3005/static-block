@@ -9,7 +9,7 @@ class A
        System.out.println("please share"); 
     }
     { /*instance block*/
-        System.out.println("please like");
+        System.out.println("\n please like");
     }
     static{
         System.out.println("learn coding");
